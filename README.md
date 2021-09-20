@@ -1,5 +1,7 @@
 # Create Today's directory
 
+今日の日付のフォルダを作成してくれます。
+
 Just double click this application,  you can create a directory named string of today !
 
 ![movie](README.assets/movie.gif)
